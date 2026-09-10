@@ -1,16 +1,45 @@
-## Hi there 👋
+<h2 data-importer="text" align="left">Hi 👋! My name is Angry Jhonny also known as Thumbly</h2>
 
-<!--
-**Angry-Jhonny/Angry-Jhonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<img data-importer="image" align="left" height="150" src="https://i.imgur.com/L7wVJHx.png"  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div data-importer="techs" align="right">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="right">
+  <a href="https://www.youtube.com/@AngryJhonny" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=My%20Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://discord.com/users/1325520432505426022" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Contact%20me%20on%20Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Angry-Jhonny/Angry-Jhonny/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Angry-Jhonny/Angry-Jhonny/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Angry-Jhonny/Angry-Jhonny/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=What%20Programming%20Languages%20i%20know" height="150" alt="languages graph"  />
+</div>
+
+###
