@@ -38,6 +38,6 @@
 <br clear="both">
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Angry-Jhonny/Angry-Jhonny/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" width="300" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Angry-Jhonny/Angry-Jhonny/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=520&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 
 ###
